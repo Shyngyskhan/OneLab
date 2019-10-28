@@ -1,0 +1,22 @@
+ul {
+    background-color: green;
+    max-width: 100%;
+}
+
+li {
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px 30px;
+    background-color: green;
+}
+
+li:hover {
+    background-color: greenyellow
+}
+
+a {
+    font-size: 30px;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+}
